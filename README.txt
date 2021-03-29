@@ -1,3 +1,15 @@
+Example project with Experience pages
+=====================================
+In BRXM 14.3.0 Experience pages is introduced, see: https://documentation.bloomreach.com/14/library/concepts/experience-pages/introduction.html
+This example show some example url's:
+
+http://localhost:8080/site/level-zero
+http://localhost:8080/site/corona
+http://localhost:8080/site/corona/level-two
+
+The documents are stored in the xpages content folder.
+
+
 Running Locally
 ===============
 
