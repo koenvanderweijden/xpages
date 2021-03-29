@@ -1,6 +1,8 @@
 Example project with Experience pages
 =====================================
 In BRXM 14.3.0 Experience pages is introduced, see: https://documentation.bloomreach.com/14/library/concepts/experience-pages/introduction.html
+This example uses the _index_ sitemap item, see: https://documentation.bloomreach.com/14/library/concepts/hst-configuration-model/use-_index_-sitemap-items.html
+
 This example show some example url's:
 
 http://localhost:8080/site/level-zero
