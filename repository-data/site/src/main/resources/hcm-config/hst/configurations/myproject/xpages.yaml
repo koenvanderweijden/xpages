@@ -1,0 +1,12 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/myproject/hst:xpages:
+      jcr:primaryType: hst:xpages
+      /x-page:
+        jcr:primaryType: hst:xpage
+        hst:label: X-page
+        hst:referencecomponent: hst:abstractpages/base
+        /main:
+          jcr:primaryType: hst:containercomponent
+          hippo:identifier: 8b127afd-ac86-4f23-9cbb-b39ac4c79a58
+          hst:xtype: HST.vBox

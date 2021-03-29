@@ -28,3 +28,12 @@ definitions:
           jcr:primaryType: hst:sitemapitem
           hst:componentconfigurationid: hst:pages/contentlist
           hst:relativecontentpath: ${parent}/${1}
+      /_default_:
+        jcr:primaryType: hst:sitemapitem
+        hst:relativecontentpath: xpages/${1}
+        /_index_:
+          jcr:primaryType: hst:sitemapitem
+          hst:relativecontentpath: ${parent}/index
+        /_default_:
+          jcr:primaryType: hst:sitemapitem
+          hst:relativecontentpath: ${parent}/${2}
